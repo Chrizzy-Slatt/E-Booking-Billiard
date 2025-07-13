@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="35" viewBox="0 0 165 35" fill="none">
+  <!-- 8-ball design -->
+  <circle cx="10" cy="18" r="10" fill="black"/>
+  <text x="10" y="22" font-size="14" text-anchor="middle" fill="white" font-family="Arial, sans-serif">8</text>
+
+  <!-- "Pocket Billiard" text with no space, matching the original font -->
+  <text x="24" y="22" font-size="16" fill="white" font-family="Impact, sans-serif">PocketBilliard</text>
+</svg>
